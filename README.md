@@ -6,4 +6,3 @@ another one
 another one
 
 one more
-and another one
