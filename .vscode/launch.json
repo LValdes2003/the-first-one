@@ -3,13 +3,11 @@
   "configurations": [
     {
       "name": "C/C++ Runner: Debug Session",
-      "type": "cppvsdbg",
+      "type": "lldb",
       "request": "launch",
       "args": [],
-      "stopAtEntry": false,
-      "console": "externalTerminal",
-      "cwd": "c:/Users/Oblitionmaster/Documents/GitHub/the-first-one",
-      "program": "c:/Users/Oblitionmaster/Documents/GitHub/the-first-one/build/Debug/outDebug"
+      "cwd": "/Users/scrambledmacbook/Documents/GitHub/the-first-one",
+      "program": "/Users/scrambledmacbook/Documents/GitHub/the-first-one/build/Debug/outDebug"
     }
   ]
 }
